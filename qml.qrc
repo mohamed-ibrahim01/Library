@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LibraryMain.qml</file>
+        <file>HomePage.qml</file>
+        <file>ItemDetailsPage.qml</file>
+        <file>assets/add.png</file>
+        <file>assets/arrow.png</file>
+        <file>assets/clear.png</file>
+        <file>assets/edit.png</file>
+        <file>assets/menu.png</file>
+        <file>assets/save.png</file>
+        <file>ItemForm.qml</file>
+        <file>assets/image.jpg</file>
+        <file>ItemFieldEditor.qml</file>
+        <file>assets/library.ico</file>
+        <file>ChooseFilePreview.qml</file>
+        <file>LibraryMainItem.qml</file>
+        <file>LibraryMainPage.qml</file>
+        <file>models/Database.qml</file>
+        <file>models/DataModel.qml</file>
+        <file>models/Logic.qml</file>
+        <file>AddEditPage.qml</file>
+        <file>assets/grid.png</file>
+        <file>assets/list.png</file>
+        <file>assets/fan.ico</file>
+    </qresource>
+</RCC>
